@@ -9,8 +9,7 @@ Olá amigo, seja bem vindo ao meu perfil =D
 
 <h5>
 Meu nome é Samuel e sou aluno de Sistemas de Informações pelo CEFET/RJ <br> Estou estudando para me tornar um desenvolvedor Fullstack!
-##
-Fale comigo:
+<br><br>Fale comigo:
 </h5>
 
 <div> 
