@@ -1,6 +1,6 @@
 # Samuel Gulart Moura
 
-### Olá amigo, seja bem vindo ao meu perfil! 
+### Olá amigo, seja bem vindo ao meu perfil =D 
 
 Estou estudando Desenvolvimento Web e sou aluno de Sistemas de Informações pelo CEFET/RJ!
 
