@@ -1,8 +1,9 @@
 # Samuel Gulart Moura
+![Hello](https://i.imgur.com/jWyFRFK.gif)
 
-### Olá amigo, seja bem vindo ao meu perfil =D 
+### Olá amigo, seja bem vindo ao meu perfil =D
 
-Estou estudando Desenvolvimento Web e sou aluno de Sistemas de Informações pelo CEFET/RJ!
+Sou aluno de Sistemas de Informações pelo CEFET/RJ e estou estudando para me tornar um desenvolvedor fullstack!
 
 Fale comigo: 
 
@@ -18,7 +19,7 @@ Fale comigo:
   
   ##
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/gulartt">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gulartt&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
 </div>
