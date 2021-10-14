@@ -1,11 +1,17 @@
-# Samuel Gulart Moura
-![Hello](https://i.imgur.com/jWyFRFK.gif)
+![Hello](https://imgur.com/smpGgZ4.gif)
+<hr>
 
-### Olá amigo, seja bem vindo ao meu perfil =D
+<h3>
+Olá amigo, seja bem vindo ao meu perfil =D
+</h3>
 
-Sou aluno de Sistemas de Informações pelo CEFET/RJ e estou estudando para me tornar um desenvolvedor fullstack!
+##
 
-Fale comigo: 
+<h5>
+Meu nome é Samuel e sou aluno de Sistemas de Informações pelo CEFET/RJ <br> Estou estudando para me tornar um desenvolvedor Fullstack!
+##
+Fale comigo:
+</h5>
 
 <div> 
  <a href="mailto:samuelgulart@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
@@ -15,13 +21,14 @@ Fale comigo:
   <a href="https://discord.com/channels/@samugulart#9812" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
 
+ </h4>
 
   
-  ##
+<hr>
 
 <div align="left">
   <a href="https://github.com/gulartt">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gulartt&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gulartt&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true">
 </div>
   
 <div style="display: inline_block"><br>
@@ -33,5 +40,5 @@ Fale comigo:
   <img align="center" alt="Samu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-  
+
 
