@@ -2,7 +2,7 @@
 <hr>
 
 <h3>
-Olá amigo, seja bem vindo ao meu perfil =D
+Olá AMIGO, SEJA BEM VINDO AO MEU PERFIL =D
 </h3>
 
 ##
