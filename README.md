@@ -7,11 +7,10 @@ OLÁ AMIGO, SEJA BEM VINDO AO MEU PERFIL =D
 
 <hr>
 <i>Técnologias e ferramentas:<i>
- 
- • HTML5<br>
- • CSS3<br>
- • JavaScript<br>
 
+<br> <img align="center" alt="Samu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> HTML5<br><br>
+<img align="center" alt="Samu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> CSS3<br><br>
+<img align="center" alt="Samu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> JavaScript <br>
 <hr>
 
 ##
@@ -38,15 +37,3 @@ Meu nome é Samuel e sou aluno de Sistemas de Informações pelo CEFET/RJ <br> E
   <a href="https://github.com/gulartt">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gulartt&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true">
 </div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Samu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Samu-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Samu-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Samu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Samu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Samu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-
-
-
