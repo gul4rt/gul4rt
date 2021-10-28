@@ -30,9 +30,8 @@ Meu nome é Samuel e sou aluno de Sistemas de Informações pelo CEFET/RJ <br> E
   
 <hr>
 
-<div>
+<div align="center">
   <a href="https://github.com/gulartt">
-  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=gulartt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"><br>
- <br><br><br>  
- <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulartt&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gulartt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulartt&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
