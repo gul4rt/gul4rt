@@ -7,10 +7,10 @@ OLÁ AMIGO, SEJA BEM VINDO AO MEU PERFIL =D
 
 <hr>
 <i>Técnologias e ferramentas:<i>
-
-<br> <img align="center" alt="Samu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> HTML5<br><br>
-<img align="center" alt="Samu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> CSS3<br><br>
-<img align="center" alt="Samu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> JavaScript <br>
+ 
+ <br> <img align="center" alt="Samu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">   HTML5<br><br>
+ <img align="center" alt="Samu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> CSS3<br><br>
+ <img align="center" alt="Samu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> JavaScript <br>
 <hr>
 
 ##
@@ -35,5 +35,6 @@ Meu nome é Samuel e sou aluno de Sistemas de Informações pelo CEFET/RJ <br> E
 
 <div align="left">
   <a href="https://github.com/gulartt">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gulartt&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gulartt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulartt&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
