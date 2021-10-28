@@ -8,9 +8,9 @@ OLÁ AMIGO, SEJA BEM VINDO AO MEU PERFIL =D
 <hr>
 <i>Técnologias e ferramentas:<i>
  
- • HTML5
- • CSS3
- • JavaScript
+ • HTML5<br>
+ • CSS3<br>
+ • JavaScript<br>
 
 <hr>
 
