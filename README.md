@@ -5,6 +5,15 @@
 OLÁ AMIGO, SEJA BEM VINDO AO MEU PERFIL =D
 </h3>
 
+<hr>
+<i>Técnologias e ferramentas:<i>
+ 
+ • HTML5
+ • CSS3
+ • JavaScript
+
+<hr>
+
 ##
 
 <h5>
