@@ -27,14 +27,11 @@ Meu nome é Samuel e sou aluno de Sistemas de Informações pelo CEFET/RJ <br> E
   <a href="https://pt.stackoverflow.com/users/261790/gulartt" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
   <a href="https://discord.com/channels/@samugulart#9812" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
-
- </h4>
-
   
 <hr>
 
-<div align="left">
+<div>
   <a href="https://github.com/gulartt">
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=gulartt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gulartt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulartt&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
