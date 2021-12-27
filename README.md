@@ -1,8 +1,7 @@
 ![Hello](https://imgur.com/smpGgZ4.gif)
-<hr>
 
 <h3>
-OLÁ AMIGO, SEJA BEM VINDO AO MEU PERFIL =D
+Welcome!
 </h3>
 
 <hr>
@@ -31,9 +30,11 @@ Meu nome é Samuel e sou aluno de Sistemas de Informações pelo CEFET/RJ <br> E
 </div>
   
 <hr>
-
-<div align="center">
-  <a href="https://github.com/gulartt">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gulartt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulartt&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+ 
+ <a href="https://github.com/gulartt">
+  <p align="center"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=gulartt&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D" alt="Gulartt" /></p>
+  <p align="center">
+    <img height="130em" src="https://github-readme-stats.vercel.app/api?username=gulartt&show_icons=true&theme=midnight-purple" />
+    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulartt&theme=midnight-purple&layout=compact" />
+  </p>
+</a>
