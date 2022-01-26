@@ -8,8 +8,8 @@ Hey, are you welcome!
   <a href="https://github.com/gulartt">
     <p align="center"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=gulartt&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D" alt="Gulartt" /></p>
     <p align="center">
-      <img height="140em" src="https://github-readme-stats.vercel.app/api?username=gulartt&show_icons=true&theme=midnight-purple" />
-      <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulartt&theme=midnight-purple&layout=compact" />
+      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gulartt&show_icons=true&theme=midnight-purple" />
+      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulartt&theme=midnight-purple&layout=compact" />
     </p>
   </a>
 </div>
