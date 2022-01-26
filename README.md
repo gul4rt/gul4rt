@@ -34,4 +34,3 @@ Hey, are you welcome!
   <a href="https://discord.com/channels/@samugulart#9812" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
   
-##
