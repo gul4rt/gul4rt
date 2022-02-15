@@ -1,8 +1,10 @@
 ![Hello](https://imgur.com/smpGgZ4.gif)
 
-<h1>
-Hey, are you welcome!
-</h1>
+<div align="center">
+  <h1>
+  hi, im Samuel!
+  </h1>
+</div>
 
 <div> 
   <a href="https://github.com/gulartt">
