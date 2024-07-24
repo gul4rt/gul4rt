@@ -7,11 +7,11 @@
 </div>
 
 <div> 
-  <a href="https://github.com/gul4rtt">
-    <p align="center"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=gul4rtt&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D" alt="Gul4rtt" /></p>
+  <a href="https://github.com/gul4rt">
+    <p align="center"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=gul4rt&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D" alt="Gul4rt" /></p>
     <p align="center">
-      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gul4rtt&show_icons=true&theme=midnight-purple" />
-      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gul4rtt&theme=midnight-purple&layout=compact" />
+      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gul4rt&show_icons=true&theme=midnight-purple" />
+      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gul4rt&theme=midnight-purple&layout=compact" />
     </p>
   </a>
 </div>
